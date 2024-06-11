@@ -8,6 +8,9 @@ Bootcamp Fullstack / COHORT 14, 2024
 ## Planteamiento
 
 Planteamiento: En este proyecto, se construye una landind de negocio aplicando un prototipo simple construido en HTML en conjunto con diseño y estilos desde CSS.
+
+
+##
 ![landing](https://github.com/carlosfariasgaldames/Proyecto-3-Landing-de-negocio/assets/162807532/e5587058-5975-46b2-b173-59905a7d46ad)
 
 Tecnologías usadas: Visual Estudio Code, Git Y Github.
