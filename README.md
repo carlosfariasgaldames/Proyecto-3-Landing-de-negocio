@@ -8,7 +8,8 @@ Bootcamp Fullstack / COHORT 14, 2024
 ## Planteamiento
 
 Planteamiento: En este proyecto, se construye una landind de negocio aplicando un prototipo simple construido en HTML en conjunto con diseño y estilos desde CSS.
-##Tecnologías usadas: Visual Estudio Code, Git Y Github.
+
+Tecnologías usadas: Visual Estudio Code, Git Y Github.
 
 Bootcamp Fullstack / COHORT 14, 2024
 
